@@ -1,4 +1,4 @@
-# Awesome NestJS v6 Boilerplate
+# HARs service
 
 [![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
 
@@ -46,7 +46,7 @@ yarn start:dev
   <dt><b>Swagger Api Documentation</b></dt>
   <dd>Already integrated API documentation. To see all available endpoints visit http://localhost:3000/documentation</dd>
 
-  <dt><b>Linter</b></dt>  
+  <dt><b>Linter</b></dt>
   <dd>tslint + eslint + prettier = ❤️</dd>
 </dl>
 
